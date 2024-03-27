@@ -9,3 +9,24 @@ You can install the required library using pip:
 ```
 
 
+## Usage
+
+1. Clone this repository:
+
+```
+    git clone https://github.com/TheSecondChance/TestTelegramBot.git
+```
+
+
+2. Set up a Telegram bot and obtain the bot token from the BotFather.
+
+3. Set the bot token as an environment variable:
+
+export BOT_TOKEN=<your_bot_token>
+
+
+4. Run the bot:
+
+```
+    python3 bot.py
+```
