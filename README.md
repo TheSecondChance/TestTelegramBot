@@ -23,6 +23,7 @@ You can install the required library using pip:
 3. Set the bot token as an environment variable:
 
 export BOT_TOKEN=<your_bot_token>
+Got to father bot and get token first
 
 
 4. Run the bot:
